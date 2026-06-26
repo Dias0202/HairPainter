@@ -1,0 +1,14 @@
+{
+  "id": "gabrieldias0202/hair-painter-train-v7",
+  "title": "Hair Painter - U-Net Train v7",
+  "code_file": "hair_painter_train.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": ["gabrieldias0202/hair-painter"],
+  "competition_sources": [],
+  "kernel_sources": []
+}

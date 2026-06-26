@@ -1,0 +1,44 @@
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build / dist
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Training outputs (too large for dataset upload)
+output/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Kaggle notebook (lives in notebook, not dataset)
+kaggle/
+
+# Temp / logs
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Validation artifacts
+validation.json

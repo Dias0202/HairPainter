@@ -1,0 +1,23 @@
+# Hair Painter — Production Dependencies
+# Python 3.11+
+
+# Image I/O
+tifffile>=2024.2.12
+Pillow>=10.3.0
+
+# Computer Vision
+opencv-python>=4.9.0.80
+scikit-image>=0.22.0
+
+# Numerical
+numpy>=1.26.0
+scipy>=1.12.0
+
+# OCR (scale bar detection)
+easyocr>=1.7.1
+
+# GUI
+PyQt6>=6.6.0
+
+# Packaging (run separately: pip install pyinstaller)
+# pyinstaller>=6.5.0

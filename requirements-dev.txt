@@ -1,0 +1,14 @@
+# Hair Painter — Development Dependencies
+-r requirements.txt
+
+# Testing
+pytest>=8.0.0
+pytest-qt>=4.4.0
+
+# SVG validation script
+cairosvg>=2.7.1
+
+# Optional: SAM2 (install manually with GPU support)
+# torch>=2.2.0
+# torchvision>=0.17.0
+# segment-anything-2  # pip install git+https://github.com/facebookresearch/segment-anything-2
